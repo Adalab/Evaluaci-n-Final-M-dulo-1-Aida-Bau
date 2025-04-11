@@ -25,5 +25,5 @@ Eliminar productos del inventario.
 Calcular el valor total del inventario.
 Realizar compras simuladas, gestionando cantidades y precios.
 
-He elegido desarrollar este proyecto utilizando clases para organizar mejor los datos y la lógica de la tienda. 
+Elegí desarrollar este proyecto utilizando clases para organizar mejor los datos y la lógica de la tienda. 
 Preferí optar por el enfoque orientado a objetos para practicar habilidades con POO.
